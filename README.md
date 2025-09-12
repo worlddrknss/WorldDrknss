@@ -8,7 +8,7 @@
 
 Drakkar Fitness is a gamified, Viking-inspired fitness ecosystem built from the ground up with:
 
-- 🛠 **Backend**: 14+ NestJS microservices (auth, client, trainer, nutrition, workouts, etc.)
+- 🛠 **Backend**: NestJS microservices (auth, client, trainer, nutrition, workouts, etc.)
 - 🗄 **Database**: PostgreSQL + Redis (sessions, tokens, rate limits)
 - 🛰 **Messaging**: NATS-based event-driven architecture (e.g., `trainer.certification.add`, `nutrition-service.createBMR`)
 - ☁️ **Infrastructure**: AWS EKS, GitOps pipelines, Cilium network policies, Vault/SOPS secret management
