@@ -15,7 +15,7 @@ Drakkar Fitness is a gamified, Viking-inspired fitness ecosystem built from the 
 - 📱 **Mobile**: Native Kotlin app with Jetpack Compose, Ktor, Hilt DI, Room DB, and modular architecture
 - 🧠 **Observability & Security**: DataDog, CrowdStrike, Upwind, eBPF, default-deny policies
 
-> Motto: _"Probably too hard for you."_
+> Motto: _"We don’t drift. We row."_
 
 ---
 
