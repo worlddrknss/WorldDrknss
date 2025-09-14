@@ -4,11 +4,15 @@ Charles Showalter is a senior infrastructure and software engineer as well as a 
 
 ## 🧭 Career Goal
 
+---
+
 To drive innovation and operational excellence in modern cloud-native environments through leadership, automation, and design thinking.
 
 > “Forge with purpose. Deploy with pride.”
 
 ## 🧠 Core Competencies
+
+---
 
 ### 🏗 Infrastructure & Cloud Engineering
 
@@ -30,6 +34,8 @@ To drive innovation and operational excellence in modern cloud-native environmen
 
 ## 🛠 Tech Stack
 
+---
+
 - **Languages**: TypeScript, Go, Kotlin, Bash, Python  
 - **Cloud**: AWS (EKS, S3, KMS, IAM, Lambda, RDS, etc.)  
 - **DevOps**: Terraform, Helm, GitOps (FluxCD / ArgoCD), GitHub Actions, GitLab Pipelines, Jenkins, Docker  
@@ -40,12 +46,16 @@ To drive innovation and operational excellence in modern cloud-native environmen
 
 ## 💼 Professional Strengths
 
+---
+
 - Servant leadership and cross-functional team enablement
 - Analytical problem-solving and pragmatic system design
 - Rapid, iterative delivery enabled by infrastructure-as-code
 - Strong emphasis on automation, security, and maintainable architecture
 
 ## 📫 Contact
+
+---
 
 - Email: [searlasjourney@gmail.com](mailto:searlasjourney@gmail.com)
 - GitLab: [@worlddrknss](https://gitlab.com/worlddrknss)
