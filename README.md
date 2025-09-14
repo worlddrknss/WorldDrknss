@@ -2,6 +2,12 @@
 
 Charles Showalter is a senior infrastructure and software engineer as well as a technical leader specializing in the design and operation of secure, automated, developer-centric platforms. He implements GitOps-driven workflows and DevSecOps practices, builds CI/CD pipelines with GitHub Actions and GitLab CI, and provisions repeatable infrastructure using Terraform. He also designs automation and orchestration solutions with Jenkins, Python, and Bash. His work emphasizes cloud-native architecture, scalable microservices, and production-grade observability and security.
 
+## 🧭 Career Goal
+
+To drive innovation and operational excellence in modern cloud-native environments through leadership, automation, and design thinking.
+
+> “Forge with purpose. Deploy with pride.”
+
 ## 🧠 Core Competencies
 
 ### 🏗 Infrastructure & Cloud Engineering
@@ -24,15 +30,13 @@ Charles Showalter is a senior infrastructure and software engineer as well as a 
 
 ## 🛠 Tech Stack
 
-**Languages**: TypeScript, Go, Kotlin, Bash, Python  
-**Cloud**: AWS (EKS, S3, KMS, IAM, Lambda, RDS, etc.)  
-**DevOps**: Terraform, Helm, GitOps (FluxCD / ArgoCD), GitHub Actions, GitLab Pipelines, Jenkins, Docker  
-**Kubernetes**: Cilium, Karpenter, Hubble, Vault, Metrics Server  
-**Mobile**: Kotlin, Jetpack Compose, Ktor, Room, Hilt, NavGraph  
-**Observability**: DataDog, Prometheus, Grafana, eBPF, Upwind  
-**Security**: SOPS, Vault, CrowdStrike, IAM roles, TLS/CertManager
-
----
+- **Languages**: TypeScript, Go, Kotlin, Bash, Python  
+- **Cloud**: AWS (EKS, S3, KMS, IAM, Lambda, RDS, etc.)  
+- **DevOps**: Terraform, Helm, GitOps (FluxCD / ArgoCD), GitHub Actions, GitLab Pipelines, Jenkins, Docker  
+- **Kubernetes**: Cilium, Karpenter, Hubble, Vault, Metrics Server  
+- **Mobile**: Kotlin, Jetpack Compose, Ktor, Room, Hilt, NavGraph  
+- **Observability**: DataDog, Prometheus, Grafana, eBPF, Upwind  
+- **Security**: SOPS, Vault, CrowdStrike, IAM roles, TLS/CertManager
 
 ## 💼 Professional Strengths
 
@@ -43,16 +47,6 @@ Charles Showalter is a senior infrastructure and software engineer as well as a 
 
 ## 📫 Contact
 
-Email: [searlasjourney@gmail.com](mailto:searlasjourney@gmail.com)
-
-GitLab: [@worlddrknss](https://gitlab.com/worlddrknss)
-
-GitHub: [@worlddrknss](https://github.com/worlddrknss)
-
----
-
-## 🧭 Career Goal
-
-To drive innovation and operational excellence in modern cloud-native environments through leadership, automation, and design thinking.
-
-> “Forge with purpose. Deploy with pride.”
+- Email: [searlasjourney@gmail.com](mailto:searlasjourney@gmail.com)
+- GitLab: [@worlddrknss](https://gitlab.com/worlddrknss)
+- GitHub: [@worlddrknss](https://github.com/worlddrknss)
