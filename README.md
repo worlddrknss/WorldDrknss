@@ -35,7 +35,7 @@ To drive innovation and operational excellence in modern cloud-native environmen
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=worlddrknss&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=worlddrknss&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
