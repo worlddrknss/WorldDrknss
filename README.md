@@ -33,12 +33,6 @@ To drive innovation and operational excellence in modern cloud-native environmen
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=worlddrknss&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🧠 Core Competencies
